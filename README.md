@@ -28,9 +28,7 @@ To run this application locally, you will need the following tools:
 
 Follow these steps to get the application up and running on your local machine:
 
-1. **Clone the repository**
-   ```bash
-   git clone 
+
 Navigate to the project folder
 
 bash
